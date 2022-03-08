@@ -62,7 +62,7 @@ Figure 1. The t-SNE (left) and AE-TPGG (right) projections of 68K PBMCs, colored
 
 The tSNE visualizations of the Klein dataset. The fighures illustrates the results obtained from the Klein dataset, with the dropout outputs imputed by DAE-TPGM, respectively.
 
-![Image text](https://github.com/PUGEA/DAE-TPGM/blob/main/Example_images/klein_evaluation.png)
+![Image text](https://github.com/PUGEA/AE-TPGG/blob/main/Example_images/klein_evaluation.png)
 
 Figure 2. Clustering evaluation metrics including ACC, ARI, NMI, and F1 for the tSNE and AT-TPGG.
 
