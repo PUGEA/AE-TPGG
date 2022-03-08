@@ -56,13 +56,13 @@ np.savetxt('./pbmc68k_reduced_data', adata_filtered.obsm['X_ae_tpgg'])
 
 Step 4. Display of visualization and clustering performance compared with tNSE.
 
-![Image text](https://github.com/PUGEA/AE-TPGG/blob/main/Example_images/klein_tsne_2.png)
+![Image text](https://github.com/PUGEA/AE-TPGG/blob/main/Example_images/pbmc68k_2.png)
 Figure 1. The t-SNE (left) and AE-TPGG (right) projections of 68K PBMCs, colored according to the 10 purified cell subtypes.
 
 
 The tSNE visualizations of the Klein dataset. The fighures illustrates the results obtained from the Klein dataset, with the dropout outputs imputed by DAE-TPGM, respectively.
 
-![Image text](https://github.com/PUGEA/AE-TPGG/blob/main/Example_images/klein_evaluation.png)
+![Image text](https://github.com/PUGEA/AE-TPGG/blob/main/Example_images/pbmc68k_evaluation.png)
 
 Figure 2. Clustering evaluation metrics including ACC, ARI, NMI, and F1 for the tSNE and AT-TPGG.
 
